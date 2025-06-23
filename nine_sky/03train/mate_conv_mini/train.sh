@@ -1,0 +1,1 @@
+deepspeed --master_port 29500 --num_gpus=2 pretrain.py --epochs 30
